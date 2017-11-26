@@ -31,7 +31,9 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": []
-    }
+    },
+    "favicon": "",
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
